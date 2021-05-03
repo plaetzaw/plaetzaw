@@ -4,8 +4,8 @@
  <p> After going through a code bootcamp with DigitalCrafts. I have been working on my own personal projects for the last year. </p>
  
  <ul>
-      [Portfolio](https://plaetzaw.github.io/)
-      [LinkedIn](https://www.linkedin.com/in/alexplaetzer/)
+ <li>[Portfolio](https://plaetzaw.github.io/)</li>
+ <li>[LinkedIn](https://www.linkedin.com/in/alexplaetzer/)</li>
  </ul>
 <!--
 **plaetzaw/plaetzaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
