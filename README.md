@@ -4,7 +4,7 @@
  <p> After going through a code bootcamp with DigitalCrafts. I have been working on my own personal projects for the last year. </p>
  
  <ul>
-      <li>[Portfolio](https://plaetzaw.github.io/)</li>
+      <li>[Portfolio]<https://plaetzaw.github.io/></li>
       <li>[LinkedIn](https://www.linkedin.com/in/alexplaetzer/)</li>
  </ul>
 <!--
