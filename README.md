@@ -1,12 +1,12 @@
-### <h1>Hi there, I'm Alex Plaetzer</h1>
- <p> I am a former full time swim coach. After over a decade of coaching at the collegiate, high school and club level - I decided I wanted to refocus my carrer into software engineering </p>
+ Hi there, I'm Alex Plaetzer
+
+I am a former full time swim coach. After over a decade of coaching at the collegiate, high school and club level - I decided I wanted to refocus my carrer into software engineering 
  
- <p> After going through a code bootcamp with DigitalCrafts. I have been working on my own personal projects for the last year. </p>
+After going through a code bootcamp with DigitalCrafts. I have been working on my own personal projects for the last year. 
  
- <ul>
- <li>[Portfolio](https://plaetzaw.github.io/)</li>
- <li>[LinkedIn](https://www.linkedin.com/in/alexplaetzer/)</li>
- </ul>
+
+- [Portfolio](https://plaetzaw.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/alexplaetzer/)
 <!--
 **plaetzaw/plaetzaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
