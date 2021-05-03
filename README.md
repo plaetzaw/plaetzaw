@@ -6,6 +6,7 @@
  <ul>
  <li>[Portfolio](https://plaetzaw.github.io/)</li>
  <li>[LinkedIn](https://www.linkedin.com/in/alexplaetzer/)</li>
+ [link to Google!](http://google.com)
  </ul>
 <!--
 **plaetzaw/plaetzaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
