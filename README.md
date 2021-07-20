@@ -2,7 +2,7 @@
 
 I am a former full time swim coach. After over a decade of coaching at the collegiate, high school and club level - I decided I wanted to refocus my carrer into software engineering 
  
-After going through a code bootcamp with DigitalCrafts. I have been working on my own personal projects for the last year. Recently finished an apprencticeship with [gitBabel](https://www.gitbabel.com/)
+After going through a code bootcamp with [DigitalCrafts](https://www.digitalcrafts.com/). I have been working on my own personal projects for the last year and a half. Recently finished an apprencticeship with [gitBabel](https://www.gitbabel.com/)
  
 
 - [Portfolio](https://plaetzaw.github.io/)
