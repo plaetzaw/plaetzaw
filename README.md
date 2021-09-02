@@ -2,7 +2,11 @@
 
 I am a former full time swim coach. After over a decade of coaching at the collegiate, high school and club level - I decided I wanted to refocus my carrer into software engineering 
  
-After going through a code bootcamp with [DigitalCrafts](https://www.digitalcrafts.com/). I have been working on my own personal projects for the last year and a half. Recently finished an apprencticeship with [gitBabel](https://www.gitbabel.com/)
+After going through a code bootcamp with [DigitalCrafts](https://www.digitalcrafts.com/). Afterward I did an engineering apprenticeship with [gitBabel](https://www.gitbabel.com/).
+
+Currently a junior full-stack developer with gitBabel.
+
+I'm currently learning [TailwindCSS](https://tailwindcss.com/)!
  
 
 - [Portfolio](https://plaetzaw.github.io/)
