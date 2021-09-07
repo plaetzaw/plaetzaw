@@ -1,4 +1,4 @@
- Hi there, I'm Alex Plaetzer
+ # Hi there, I'm Alex Plaetzer
 
 I am a former full time swim coach. After over a decade of coaching at the collegiate, high school and club level - I decided I wanted to refocus my carrer into software engineering 
  
