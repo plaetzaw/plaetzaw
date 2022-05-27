@@ -6,7 +6,7 @@ After going through a code bootcamp with [DigitalCrafts](https://www.digitalcraf
 
 Currently a junior full-stack developer with gitBabel.
 
-I'm currently learning [TailwindCSS](https://tailwindcss.com/)!
+I'm currently learning [Typescript](https://www.typescriptlang.org/)!
  
 
 - [Portfolio](https://alexplaetzer.netlify.app/)
