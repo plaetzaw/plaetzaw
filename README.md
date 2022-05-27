@@ -9,7 +9,7 @@ Currently a junior full-stack developer with gitBabel.
 I'm currently learning [TailwindCSS](https://tailwindcss.com/)!
  
 
-- [Portfolio](https://plaetzaw.github.io/)
+- [Portfolio](https://alexplaetzer.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/alexplaetzer/)
 <!--
 **plaetzaw/plaetzaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
