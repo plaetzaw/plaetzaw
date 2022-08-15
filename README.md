@@ -4,7 +4,7 @@ I am a former full time swim coach. After over a decade of coaching at the colle
  
 After going through a code bootcamp with [DigitalCrafts](https://www.digitalcrafts.com/). Afterward I did an engineering apprenticeship with [gitBabel](https://www.gitbabel.com/).
 
-Currently a junior full-stack developer with gitBabel.
+Currently a Software Enginner at [Intellihealth](https://www.intellihealth.co/).
 
 I'm currently learning [Typescript](https://www.typescriptlang.org/)!
  
