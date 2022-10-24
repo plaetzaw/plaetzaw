@@ -2,7 +2,7 @@
 
 I am a former full time swim coach. After over a decade of coaching at the collegiate, high school and club level - I decided I wanted to refocus my carrer into software engineering 
  
-After going through a code bootcamp with [DigitalCrafts](https://www.digitalcrafts.com/). Afterward I did an engineering apprenticeship with [gitBabel](https://www.gitbabel.com/).
+After going through a code bootcamp with [DigitalCrafts](https://www.digitalcrafts.com/). I did an engineering apprenticeship with [gitBabel](https://www.gitbabel.com/).
 
 Currently a Software Enginner at [Intellihealth](https://www.intellihealth.co/).
 
